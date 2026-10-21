@@ -54,8 +54,6 @@
 
 ---
 
-<!-- ==================== ABOUT US ==================== -->
-
 ## About Wildora Labs
 
 **Wildora Labs** is a software development company focused on building practical, reliable, and user-friendly digital solutions.
@@ -68,69 +66,38 @@ Our approach combines thoughtful design, clean development, and a clear understa
 
 ---
 
-<!-- ==================== OUR SERVICES ==================== -->
-
 ## What We Do
+
+We build digital solutions that help businesses operate efficiently and grow online.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
+    <td valign="top" width="50%">
       <h3>🌐 Web Development</h3>
-
-      <p>
-        Modern, responsive websites and web applications
-        designed to strengthen your digital presence and
-        deliver seamless user experiences.
-      </p>
-
+      <p>Modern, responsive websites and web applications designed for business needs.</p>
     </td>
-    <td width="50%" valign="top">
-
+    <td valign="top" width="50%">
       <h3>🛒 E-commerce Solutions</h3>
-
-      <p>
-        Digital storefronts and online shopping platforms
-        that help businesses showcase products, reach
-        customers, and manage online sales.
-      </p>
-
+      <p>Online stores and digital storefronts that help businesses showcase products and sell online.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-
+    <td valign="top" width="50%">
       <h3>⚙️ Business Automation</h3>
-
-      <p>
-        Custom tools and automated workflows that simplify
-        daily operations, organize business records, and
-        reduce repetitive manual work.
-      </p>
-
+      <p>Tools and workflows that simplify operations, organize records, and reduce repetitive manual work.</p>
     </td>
-    <td width="50%" valign="top">
-
+    <td valign="top" width="50%">
       <h3>💻 Custom Software</h3>
-
-      <p>
-        Tailored applications, management dashboards,
-        reporting tools, and business systems built
-        around specific requirements.
-      </p>
-
+      <p>Business dashboards, management systems, and applications tailored to specific requirements.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ==================== TECHNOLOGY STACK ==================== -->
-
 ## Our Technology Stack
 
-We use modern technologies to build maintainable, scalable,
-and reliable digital products.
+We use modern technologies to build maintainable, scalable, and reliable digital products.
 
 ### Frontend Development
 
@@ -150,7 +117,7 @@ and reliable digital products.
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### Development Tools & Deployment
+### Tools & Deployment
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -161,15 +128,11 @@ and reliable digital products.
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-
 ## Featured Projects
 
-We turn ideas into practical software built around real-world
-business requirements.
+We turn ideas into practical software built around real-world business requirements.
 
-Explore our repositories to discover our projects, development
-work, and technical implementations.
+Explore our repositories to discover our projects, development work, and technical implementations.
 
 <div align="center">
 
@@ -182,16 +145,12 @@ work, and technical implementations.
 
 </div>
 
-<br />
-
 <!--
-FEATURED PROJECT TEMPLATE
-
-Replace the examples below with actual public repositories.
+Add your actual public projects here.
 
 ### Project Name
 
-Briefly explain what the application does and the problem it solves.
+A short description of the project and the problem it solves.
 
 **Key Features**
 - Feature one
@@ -205,96 +164,29 @@ Briefly explain what the application does and the problem it solves.
 
 ---
 
-<!-- ==================== HOW WE WORK ==================== -->
-
 ## Our Approach
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+**01 — Understand**
 
-      <h3>01. Understand</h3>
+We learn about your business, goals, and the problems your software needs to solve.
 
-      <p>
-        We begin by understanding the business, its goals,
-        and the problems the software needs to solve.
-      </p>
+**02 — Plan & Design**
 
-    </td>
-    <td width="50%" valign="top">
+We plan practical solutions and intuitive user experiences around your requirements.
 
-      <h3>02. Design</h3>
+**03 — Develop**
 
-      <p>
-        We plan intuitive user experiences and practical
-        solutions tailored to the requirements.
-      </p>
+We build responsive interfaces, reliable backend systems, and maintainable applications.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+**04 — Deliver**
 
-      <h3>03. Develop</h3>
-
-      <p>
-        We build responsive interfaces, reliable backend
-        systems, and maintainable software.
-      </p>
-
-    </td>
-    <td width="50%" valign="top">
-
-      <h3>04. Deliver</h3>
-
-      <p>
-        We prepare the application for deployment and
-        support a smooth handover process.
-      </p>
-
-    </td>
-  </tr>
-</table>
+We prepare your solution for deployment and provide a clear project handover.
 
 ---
-
-<!-- ==================== FOUNDER ==================== -->
-
-## Meet the Founder
-
-<div align="center">
-
-  <!-- Replace with the actual founder image path if available -->
-  <img
-    src="./assets/founder-white.png"
-    alt="Shijas - Founder of Wildora Labs"
-    width="150"
-  />
-
-  <h3>Shijas</h3>
-
-  <p><strong>Founder & Full Stack Developer</strong></p>
-
-</div>
-
-As the founder of Wildora Labs, Shijas focuses on turning ideas
-into useful digital products through software development,
-problem-solving, and practical engineering.
-
-His work spans frontend development, backend systems, database
-design, and building complete web applications for businesses.
-
-**The vision:** make reliable software solutions accessible
-to businesses looking to grow and work smarter.
-
----
-
-<!-- ==================== LET'S CONNECT ==================== -->
 
 ## Let's Build Something Together
 
-Have a project idea? Need a website, an e-commerce platform,
-or a custom business application?
+Have a project idea? Need a website, an e-commerce platform, or a custom business application?
 
 **Let's turn your idea into a digital solution.**
 
@@ -331,8 +223,6 @@ or a custom business application?
 
   <p><em>Building meaningful digital solutions.</em></p>
 
-  <p>
-    Kerala, India
-  </p>
+  <p>Kerala, India</p>
 
 </div>
