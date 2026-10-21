@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/wildora-logo.png" alt="Wildora Labs Logo" width="120" />
+  <img src="./assets/logo-light-removebg-preview.png" alt="Wildora Labs Logo" width="120" />
 
   <h1>WILDORA LABS</h1>
 
